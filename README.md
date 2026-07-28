@@ -15,12 +15,8 @@ A recipe for building evaluations to measure and improve Claude's accuracy on a 
    git clone https://github.com/atanus1502/building-evals.git
    cd building-evals
    ```
-2. (Optional) Create and activate a virtual environment:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-3. Install Jupyter if you don't already have it:
+
+2. Install Jupyter if you don't already have it:
    ```bash
    pip install jupyterlab
    ```
